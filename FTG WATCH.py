@@ -35,8 +35,6 @@ async def _(event):
     await event.edit("🕚")
     await asyncio.sleep(0.6)
     await event.edit("🕛")
- 
-    await event.edit("🕛")
     await asyncio.sleep(0.6)
     await event.edit("🕐")
     await asyncio.sleep(0.6)
